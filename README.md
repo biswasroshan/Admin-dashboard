@@ -160,14 +160,14 @@ All components are written in TypeScript for better type safety and developer ex
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
+## support
 
 If you encounter any issues or have questions:
 1. Check the existing issues in the repository
 2. Create a new issue with detailed information
 3. Contact the development team
 
-## 🔄 Updates
+## Updates
 
 Stay updated with the latest features and improvements by:
 - Following the repository
@@ -175,5 +175,3 @@ Stay updated with the latest features and improvements by:
 - Reading the changelog
 
 ---
-
-**Built with ❤️ using React, TypeScript, and Tailwind CSS** 
